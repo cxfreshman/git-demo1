@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("this is git!");
         System.out.println("this is new git！");
         System.out.println("this is least git！");
+        System.out.println("changed");
     }
 }
