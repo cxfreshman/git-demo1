@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("this is least git！");
         System.out.println("changed");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
